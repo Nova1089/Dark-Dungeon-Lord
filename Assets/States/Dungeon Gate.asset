@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
   m_Name: Dungeon Gate
   m_EditorClassIdentifier: 
-  storyText: "Dungeon Gate\r\n\nWelcome to Dilapidated Dungeon m'lord. We were once
-    a notorious and feared dungeon, but our old lord became too soft. With your leadership,
-    we can strike fear back into the hearts of the noble, and bring proper terror
-    and darkness to the world! \r\n\r\nHow would you like to announce your presence?\r\n\r\n1.
+  storyText: "Dungeon Gate\r\n\nWelcome to Dark Dungeon m'lord. We were once a notorious
+    and feared dungeon, but our old lord became too soft. With your leadership, we
+    can strike fear back into the hearts of the noble, and bring proper terror and
+    darkness to the world! \r\n\r\nHow would you like to announce your presence?\r\n\r\n1.
     Let's host a feast.\r\n2. Prepare some prisoners for the fighting pits."
   nextStates:
   - {fileID: 11400000, guid: e1a2604d756be6a4cbf92e46ef69dd92, type: 2}
