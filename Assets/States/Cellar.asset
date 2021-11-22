@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Cellar
+  m_EditorClassIdentifier: 
+  storyText: 'Cellar
+
+
+    Your minions take you to the cellar and show you the
+    luxurious wines they have looted and collected with their previous lords.
+
+    
+
+    Care
+    to partake with us?
+
+    
+
+    1. Glorious. You will pillage and plunder and
+    we will be rich and delight in the finest luxuries of the land.
+
+    2. You
+    small minded fools are wasting my time! Have you no imagination? Why I oughta...'
+  nextStates:
+  - {fileID: 11400000, guid: 8caad0b5520fc46478fab5b3008006d5, type: 2}
+  - {fileID: 11400000, guid: e03a0667b38534a4c8c70006ced26cf2, type: 2}

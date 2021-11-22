@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Ritual Room
+  m_EditorClassIdentifier: 
+  storyText: 'Ritual Room
+
+
+    You''ve tied a couple slaves to an alter. Your minions
+    surround in perfect formation. You perform an incantation as you cook your huge
+    sword in hot embers. With one almighty sweep of your sword, you open a crack
+    in space-time and a demon emerges. Your minions begin disintegrating in his presence.
+
+    
+
+    1.
+    Swing your huge sword into his skull.
+
+    2. Enter through the crack in space-time.'
+  nextStates:
+  - {fileID: 11400000, guid: 0a913a880a95c5d478c5ae454991c082, type: 2}
+  - {fileID: 11400000, guid: 964437746b5e31e42b8a4479dd97be44, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Mess Hall
+  m_EditorClassIdentifier: 
+  storyText: "Mess Hall\r\n\nYour minions gather around eagerly and you take the
+    first bite. They begin to gorge and quickly become drunk and rowdy. \r\n\r\nA
+    fight breaks out.\r\n\r\n1. There will be no fighting you vulgar nincompoops!
+    \r\n2. The greatest warrior among you will be rewarded handsomely. "
+  nextStates:
+  - {fileID: 11400000, guid: 14c6f9868e0fa5b4cac79e09b5f2eab4, type: 2}
+  - {fileID: 11400000, guid: c7446871ba1040c459243ddedd6609e0, type: 2}

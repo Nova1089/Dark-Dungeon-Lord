@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Castle Gate 2
+  m_EditorClassIdentifier: 
+  storyText: "Castle Gate 2\r\n\nThe King reveals himself from the tower. He already
+    knew you were marching on him. He's prepared to grant you a personal kingdom
+    and full protection. \r\n\r\n1. You take the kings offer and warn him of the
+    costs of betraying you.\r\n2. You hurl a spear at the kings head."
+  nextStates:
+  - {fileID: 11400000, guid: 9b657ed37904d3a47bf9ef1d0a2a6ace, type: 2}
+  - {fileID: 11400000, guid: c953c7514285bdb4fa6d2bbaaacbbb3e, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Haunted Catacombs
+  m_EditorClassIdentifier: 
+  storyText: "Haunted Catacombs\n\nYou summon a few loyal servants and head deep
+    into the haunted catacombs. Your minions come face to face with horror. Women,
+    children, fiends and ghouls, a sorcerer, demonic artifacts, barbaric equipment,
+    and the smell of rot and decay. Even your minions begin to feel terrified.\r\n\r\n1.
+    You kick a scared minion into the fray. The monsters, ghouls and even the women
+    tear him apart. \rHue hue hue. You beckon your minions even further.\r\n\r\n2.
+    You pick up your giant sword and squash one of the ghouls like a bug. How about
+    a little fun? You and your minions bring havock on the vile creatures.\r\n\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 4cd43199733eda040808921995b5f8eb, type: 2}
+  - {fileID: 11400000, guid: 50206a72e21c84a4cbecab1b24b53aae, type: 2}

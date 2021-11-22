@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Dungeon Gate
+  m_EditorClassIdentifier: 
+  storyText: "Dungeon Gate\r\n\nWelcome to Dilapidated Dungeon m'lord. We were once
+    a notorious and feared dungeon, but our old lord became too soft. With your leadership,
+    we can strike fear back into the hearts of the noble, and bring proper terror
+    and darkness to the world! \r\n\r\nHow would you like to announce your presence?\r\n\r\n1.
+    Let's host a feast.\r\n2. Prepare some prisoners for the fighting pits."
+  nextStates:
+  - {fileID: 11400000, guid: e1a2604d756be6a4cbf92e46ef69dd92, type: 2}
+  - {fileID: 11400000, guid: b5a93715d9f8c2e4fa865fe74d4eb157, type: 2}

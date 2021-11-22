@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Portal 2
+  m_EditorClassIdentifier: 
+  storyText: 'Portal 2
+
+
+    You see your skin changing color. You feel yourself
+    growing. You''re becoming something different now. You like the way this feels.
+    But you are so terribly angry.
+
+    
+
+    M''lord...? Are you okay? This is
+    absolute madness!
+
+    
+
+    1. Get back you imbecile! With ultimate power
+    I will rule all!
+
+    2. You listen to your servant.'
+  nextStates:
+  - {fileID: 11400000, guid: 38ae6511cabf5bd45951bf02ae26f7a3, type: 2}
+  - {fileID: 11400000, guid: 6f4306dd1f323284bb80f5bbed0b5edf, type: 2}

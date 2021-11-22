@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Lord's Chambers
+  m_EditorClassIdentifier: 
+  storyText: "Lord's Chambers\r\n\nA shining knight enters your chambers. He's here
+    for the bounty. You are drunk and your minions are unaccounted for. \r\n\r\nYou
+    beg for mercy.\r\n\r\n1. Try again!\r\n2. Go pout for a while."
+  nextStates:
+  - {fileID: 11400000, guid: 960296e830f00b149898cb2c3674a51b, type: 2}
+  - {fileID: 11400000, guid: 97c13d5c888a1534ca226860a5758bd7, type: 2}

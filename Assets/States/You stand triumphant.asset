@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: You stand triumphant
+  m_EditorClassIdentifier: 
+  storyText: "You stand triumphant\r\n\nYou inspire your men through your sheer force
+    of will.  \r\n\r\n\r\n1. Continue to lead them to greater victories."
+  nextStates:
+  - {fileID: 11400000, guid: df751371ebc8da44199d0a7fa5f5a03a, type: 2}

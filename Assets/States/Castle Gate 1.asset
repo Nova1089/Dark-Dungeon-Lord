@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Castle Gate 1
+  m_EditorClassIdentifier: 
+  storyText: 'Castle Gate 1
+
+
+    You surround the kings castle. Your huge army
+    chants ancient songs of war. They''re prepared to die for you. The gatekeeper
+    on the tower trembles.
+
+    
+
+    1. We''ve come to make some demands.
+
+    2.
+    Charge! Leave no one alive! This world will be mine.'
+  nextStates:
+  - {fileID: 11400000, guid: 2279473fed0102247ac95101e5789a1e, type: 2}
+  - {fileID: 11400000, guid: c953c7514285bdb4fa6d2bbaaacbbb3e, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: King's Quarters
+  m_EditorClassIdentifier: 
+  storyText: 'King''s Quarters
+
+
+    You swing your huge hunk of metal at the king.
+    Over and over you strike downward. The king is in awe of your speed and power,
+    but he holds tenaciously. He slips to the side and swings back, only to graze
+    and scar your face. Your sword breaks through his sword and then through his
+    armor. You look upon your kingdom and ponder what wicked things may come next.
+
+
+
+    1.
+    Play for the other ending.
+
+    2. Return to menu.'
+  nextStates:
+  - {fileID: 11400000, guid: 960296e830f00b149898cb2c3674a51b, type: 2}
+  - {fileID: 11400000, guid: 97c13d5c888a1534ca226860a5758bd7, type: 2}

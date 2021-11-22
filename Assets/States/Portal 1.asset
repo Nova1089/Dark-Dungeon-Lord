@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ecfe16bfb9a974eac116589306eea5, type: 3}
+  m_Name: Portal 1
+  m_EditorClassIdentifier: 
+  storyText: 'Portal 1
+
+
+    You feel an immense power as you enter the portal.
+    You don''t exactly understand this power, but you feel it''s source to be evil.
+    You merely will it and you summon your army. They stand loyal by fear.
+
+    
+
+    1.
+    Now is the time we march! You will finally see through power and fear, the world
+    can be ours for the taking!
+
+    2. You savor the power a while longer and feel
+    it overtake you.'
+  nextStates:
+  - {fileID: 11400000, guid: 6f4306dd1f323284bb80f5bbed0b5edf, type: 2}
+  - {fileID: 11400000, guid: 1aaefb94f548c6e4d89f2824663ff7d8, type: 2}
